@@ -1,0 +1,70 @@
+Algorytmy + zadania:
+	algorytm euklidesa (również rozszerzony)
+	sito eratostenesa + szybkie znajdowanie rozkładu na czynniki małych liczb
+	odwracanie modulo
+	wyszukiwanie binarne (też po wyniku)
+	wyszukiwanie binarne po wyniku wielu rzeczy naraz
+	mergesort
+	najdłuższy wspólny podciąg dwóch ciągów
+	problem plecakowy
+	najdłuższy podciąg rosnący
+	szukanie spójnych składowych
+	najkrótsze ścieżki (dijkstra dla grafu z wagami, bfs w grafie bez wag)
+	sortowanie topologiczne
+	silnie spójne składowe
+	find and union (na kilka sposobów - bez rang O(log* n), i na samych rangach O(log n))
+	trick z łączeniem zbiorów etc.: wrzucamy mniejszy do większego - jedno n w złożoności zamienia na log n
+	minimalne drzewo rozpinające - algorytm prima i kruskala
+	drzewa przedziałowe punkt-przedział (lub przedział-punkt)
+	drzewa przedziałowe przedział-przedział
+	zamiatanie
+	własności porządku postorder (drzewo DFS) i preorder w drzewach
+	znajdowanie najniższego wspólnego przodka O(n) offline i O(nlogn) online
+	liczenie tablicy prefikso-sufiksowej oraz wyszukiwanie wzorca za pomocą kmp
+	haszowanie
+	gry dwuosobowe, twierdzenie sprague'a-grundy'ego
+	dynamiki na drzewach i dagach (skierowanych grafach acyklicznych)
+	cykl eulera
+	liczenie pola n-kąta
+	sortowanie kątowe
+	otoczka wypukła
+	kolejka monotoniczna
+	kopiec
+	dziel i zwyciężaj
+	rozbijanie wierzchołka grafu na kilka
+	szukanie centroidu, średnicy drzewa
+	szybkie potęgowanie
+
+Dodatkowe (czyli takie, które raczej się na drugim etapie nie przydadzą, ale kto wie jak to będzie :) )
+	algorytm bellmana-forda
+	algorytm floyda-warshalla
+	szukanie palindromów - algorytm manachera
+	tablica prefiks-prefiksowa, z-algorithm
+	macierze
+	macierze a grafy (+ triki optymalizacyjne)
+	macierze a ciągi rekurencyjne pierwszego rzędu
+	kmr
+	mo algorithm (sqrt decomposition)
+	dwuspójne, mosty, punkty artykulacji, funkcja low
+	skojarzenia w grafie dwudzielnym (i niedwudzielnym :P)
+	przepływy
+	2-sat
+	Trie
+	Aho-Corasick
+	centroid decomposition
+	heavy-light decomposition
+	zrównoważone BST (drzewa wyszukiwań binarnych) - Splay, AVL, Treap
+	trik z otoczką wypukłą
+	ternary search
+
+Serwisy z zadankami:
+	http://main.edu.pl - zadanka z poprzednich OIow i innych polskich konkursów, warto przede wszystkim przerobić sobie olimpiady z poprzednich paru lat
+	http://codeforces.com - dużo zadań, od łatwych do super trudnych wraz z omówieniami, co parę dni można wziąć udział w dwu godzinnych contestach, użytkownicy publikują też wiele blogów, między innymi tutoriale do algorytmów itp
+	http://acm.timus.ru/problemset.aspx - zbiór zadań z różnych działów (dynamiki, grafy itp)
+
+
+Przydatne linki:
+	http://was.zaa.mimuw.edu.pl/ - Wykłady z Algorytmiki Stosowanej, filmy z wykładów z UW, mają opisane większość z powyższych algorytmów
+	https://discuss.codechef.com/questions/48877/data-structures-and-algorithms - nie używałem tego, ale wygląda na całkiem porządną listę algorytów wraz z tutorialami, zadaniami i implementacją
+	http://codeforces.com/blog/entry/15643 - różne c++owe tricki, niektóre bardzo przyspieszają kodzenie i debug
+	https://csacademy.com/app/graph_editor/ - rysowanie grafów online
