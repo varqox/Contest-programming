@@ -2,7 +2,7 @@ Algorytmy + zadania:
 	algorytm euklidesa (również rozszerzony)
 	sito eratostenesa + szybkie znajdowanie rozkładu na czynniki małych liczb
 	odwracanie modulo
-	wyszukiwanie binarne (też po wyniku)
+	wyszukiwanie binarne (też po wyniku)
 	wyszukiwanie binarne po wyniku wielu rzeczy naraz
 	mergesort
 	najdłuższy wspólny podciąg dwóch ciągów
@@ -36,6 +36,7 @@ Algorytmy + zadania:
 	szybkie potęgowanie
 
 Dodatkowe (czyli takie, które raczej się na drugim etapie nie przydadzą, ale kto wie jak to będzie :) )
+	Fenwick tree
 	algorytm bellmana-forda
 	algorytm floyda-warshalla
 	szukanie palindromów - algorytm manachera
@@ -67,4 +68,5 @@ Przydatne linki:
 	http://was.zaa.mimuw.edu.pl/ - Wykłady z Algorytmiki Stosowanej, filmy z wykładów z UW, mają opisane większość z powyższych algorytmów
 	https://discuss.codechef.com/questions/48877/data-structures-and-algorithms - nie używałem tego, ale wygląda na całkiem porządną listę algorytów wraz z tutorialami, zadaniami i implementacją
 	http://codeforces.com/blog/entry/15643 - różne c++owe tricki, niektóre bardzo przyspieszają kodzenie i debug
-	https://csacademy.com/app/graph_editor/ - rysowanie grafów online
+	https://csacademy.com/app/graph_editor - rysowanie grafów online
+	http://codeforces.com/blog/entry/23054 - lista wszystkiego
